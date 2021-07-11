@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fetchProductListFromAPIReact/static/css/main.3ca41fe0.chunk.css",
+    "main.js": "/fetchProductListFromAPIReact/static/js/main.a32ed701.chunk.js",
+    "main.js.map": "/fetchProductListFromAPIReact/static/js/main.a32ed701.chunk.js.map",
+    "runtime-main.js": "/fetchProductListFromAPIReact/static/js/runtime-main.43acb79e.js",
+    "runtime-main.js.map": "/fetchProductListFromAPIReact/static/js/runtime-main.43acb79e.js.map",
+    "static/js/2.568db10f.chunk.js": "/fetchProductListFromAPIReact/static/js/2.568db10f.chunk.js",
+    "static/js/2.568db10f.chunk.js.map": "/fetchProductListFromAPIReact/static/js/2.568db10f.chunk.js.map",
+    "index.html": "/fetchProductListFromAPIReact/index.html",
+    "static/css/main.3ca41fe0.chunk.css.map": "/fetchProductListFromAPIReact/static/css/main.3ca41fe0.chunk.css.map",
+    "static/js/2.568db10f.chunk.js.LICENSE.txt": "/fetchProductListFromAPIReact/static/js/2.568db10f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43acb79e.js",
+    "static/js/2.568db10f.chunk.js",
+    "static/css/main.3ca41fe0.chunk.css",
+    "static/js/main.a32ed701.chunk.js"
+  ]
+}
